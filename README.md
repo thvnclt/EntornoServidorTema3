@@ -23,3 +23,4 @@ Las funciones de conversión explícita son simples de usar, aunque resultados c
 
 ## Referencias
 - [MDN - JavaScript Data Structures](https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures)
+- Actualización del README con detalles del proyecto
